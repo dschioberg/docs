@@ -233,3 +233,5 @@ NEO also supports account model assets (called tokens) using the [NEP-5](https:/
 
 <b>Example: 
 [Moonlight ICO Template](https://github.com/Moonlight-io/moonlight-ico-template)</b>
+
+{{Give Everyone some GAS}}
